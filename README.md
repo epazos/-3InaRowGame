@@ -1,2 +1,2 @@
-# -3InaRowGame
+# 3InaRowGame
 react game
