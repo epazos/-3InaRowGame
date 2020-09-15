@@ -1,2 +1,0 @@
-# 3InaRowGame
-react game
